@@ -10,6 +10,10 @@
 
 它提供一个简单的图形界面，用于查看 Flatpak 应用、应用依赖运行时、孤立运行时和 Flatpak 保留运行时，并支持安全卸载应用与清理未使用运行时。
 
+### 截图
+
+![Flathub Manager 截图](assets/screenshot.png)
+
 ### 功能
 
 - 图形界面显示已安装 Flatpak 应用和运行时
@@ -93,6 +97,10 @@ chmod +x ~/.local/bin/flathub-manager.sh
 **Flathub Manager** is a lightweight Flatpak GUI manager built with **Bash + Zenity**. It is designed for Raspberry Pi, ClockworkPi, lightweight Linux desktops, and low-resource devices.
 
 It provides a simple graphical interface for viewing Flatpak apps, app runtime dependencies, unused runtimes, and reserved Flatpak runtimes. It also supports safe app removal and cleanup of unused runtimes.
+
+### Screenshot
+
+![Flathub Manager Screenshot](assets/screenshot.png)
 
 ### Features
 
